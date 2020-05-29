@@ -9,7 +9,7 @@
 --- 
 &nbsp;
 
-## Requited packge and Driver
+## Required packge and Driver
 
 **1. Selenium**\
 **2. Chorme Driver**
