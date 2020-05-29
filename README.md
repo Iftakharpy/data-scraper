@@ -25,7 +25,7 @@ pip install selenium
 
 ### 2. To download chrome driver visit the link below.
 * [Download Chrome Driver][link]
-* 
+
 ---
 &nbsp;
 
